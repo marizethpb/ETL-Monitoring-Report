@@ -10,12 +10,13 @@ Terminologies:
 **The ETL monitoring Report provides real-time ETL information that aims to inform users, assess performance of ETL for maintenance, and evaluate vendor's service.
 The report contain the following pages:**
 
+
   1. Dashboard Tour - enable the users to familiarize themselves with the dashboard (Pages, Buttons, and Tooltips) at their own pace.
   <img width="591" alt="Dashboard Tour" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/8a045a8d-edab-475d-a1de-9327f50bb186">
 
-  
+
   2. Overview Page - enables the user to oversee the ETL performance for a specific date. 
-  <img width="682" alt="Overview" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/0a7a5762-6d57-4295-87e2-81bbb9e1955a">
+  <img width="679" alt="Overview" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/da956ffa-1867-4da5-bcde-5797943078ea">
 
       Drilldown Pages include:
          a. Outliers drilldown - see what BUs have unusual starting time and duration and how far is the BU from normal if it is an outlier. 
@@ -23,5 +24,5 @@ The report contain the following pages:**
 
   
   3. Business Unit Drilldown - get down to specifics of ETL for a business unit
-  <img width="591" alt="BU1" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/64973021-bacd-47cb-b2d8-1340059a5559">
+  <img width="623" alt="BU1" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/b9d73713-cd07-4d55-8bb0-edc4f0424826">
 
