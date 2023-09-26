@@ -15,7 +15,7 @@ The report contains the following pages:**
 
   
   2. Overview Page - enables the user to oversee the ETL performance for a specific date. 
-  <img width="630" alt="Overview" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/398abad3-f08a-41d2-81dc-64571fe5d280">
+  <img width="682" alt="Overview" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/0a7a5762-6d57-4295-87e2-81bbb9e1955a">
 
       Drilldown Pages include:
          a. Outliers drilldown - see what BUs have unusual starting time and duration and how far the BUs from normal if it is an outlier. 
