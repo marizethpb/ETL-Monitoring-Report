@@ -4,7 +4,7 @@
 
 Terminologies:
   - BU refers to business unit
-  - ETL refers to Extract, Load, and Transform
+  - ETL refers to Extract, Transform and Load
   - SLA refers to Service Level Agreement
 
 **The ETL monitoring Report contains the following pages:**
