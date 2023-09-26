@@ -18,7 +18,7 @@ The report contain the following pages:**
   <img width="682" alt="Overview" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/0a7a5762-6d57-4295-87e2-81bbb9e1955a">
 
       Drilldown Pages include:
-         a. Outliers drilldown - see what BUs have unusual starting time and duration and how far the BUs from normal if it is an outlier. 
+         a. Outliers drilldown - see what BUs have unusual starting time and duration and how far is the BU from normal if it is an outlier. 
          b. SLA Compliance drilldown - see how compliant the ETL is to SLA by showing the number times from past month that the entire ETL and business units met/missed the SLA.
 
   
