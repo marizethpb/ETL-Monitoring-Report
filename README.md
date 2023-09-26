@@ -11,7 +11,7 @@ Terminologies:
 The report contains the following pages:**
 
   1. Dashboard Tour - enable the users to familiarize themselves with the dashboard (Pages, Buttons, and Tooltips) at their own pace.
-  <img width="629" alt="Dashboard Tour" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/049085bb-9ce8-40f0-8850-1cca5692ec01">
+  <img width="591" alt="Dashboard Tour" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/8a045a8d-edab-475d-a1de-9327f50bb186">
 
   
   2. Overview Page - enables the user to oversee the ETL performance for a specific date. 
