@@ -9,7 +9,7 @@ Terminologies:
 
 **The ETL monitoring Report contains the following pages:**
 
-  1. Dashboard Tour - enables the user to familiarize themselves with the dashboard (Pages, Buttons, and Tooltips) at their own pace.
+  1. Dashboard Tour - enable the users to familiarize themselves with the dashboard (Pages, Buttons, and Tooltips) at their own pace.
   <img width="629" alt="Dashboard Tour" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/049085bb-9ce8-40f0-8850-1cca5692ec01">
 
   
@@ -17,8 +17,8 @@ Terminologies:
   <img width="630" alt="Overview" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/398abad3-f08a-41d2-81dc-64571fe5d280">
 
       Drilldown Pages include:
-         a. Outliers drilldown - see what BUs have unusual starting time and duration.
-         b. SLA Compliance drilldown - see how compliant the ETL is to SLA by showing the number times from past month that the entire ETL and business units met/meet the SLA.
+         a. Outliers drilldown - see what BUs have unusual starting time and duration and their deviation to normal duration.
+         b. SLA Compliance drilldown - see how compliant the ETL is to SLA by showing the number times from past month that the entire ETL and business units met/missed the SLA.
 
   
   3. Business Unit Drilldown - get down to specifics of ETL for a business unit
