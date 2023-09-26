@@ -8,7 +8,7 @@ Terminologies:
   - SLA refers to Service Level Agreement
 
 **The ETL monitoring Report provides real-time ETL information that aims to inform users, assess performance of ETL for maintenance, and evaluate vendor's service.
-The report contains the following pages:**
+The report contain the following pages:**
 
   1. Dashboard Tour - enable the users to familiarize themselves with the dashboard (Pages, Buttons, and Tooltips) at their own pace.
   <img width="591" alt="Dashboard Tour" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/8a045a8d-edab-475d-a1de-9327f50bb186">
