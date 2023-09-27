@@ -23,5 +23,5 @@ assess performance of ETL for maintenance, and evaluate vendor's service. The re
 
   
   3. Business Unit Drilldown - get down to specifics of ETL for a business unit
-  <img width="627" alt="BU1" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/96f88803-cc47-4b6c-9294-251d0f3adaae">
+  <img width="586" alt="BU1" src="https://github.com/marizethpb/ETL-Monitoring-Report/assets/79640443/0b2b375c-a07e-4e6c-b330-b221be8cc7d2">
 
