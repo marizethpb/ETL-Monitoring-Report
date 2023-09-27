@@ -7,7 +7,7 @@ Terminologies:
   - ETL refers to Extract, Transform, and Load
   - SLA refers to Service Level Agreement
 
-**The ETL monitoring Report provides real-time ETL information about different business units / servers that aims to inform users, 
+**The ETL monitoring Report provides real-time ETL information for different business units / servers that aims to inform users, 
 assess performance of ETL for maintenance, and evaluate vendor's service. The report contain the following pages:**
 
   1. Dashboard Tour - enable the users to familiarize themselves with the dashboard (Pages, Buttons, and Tooltips) at their own pace.
